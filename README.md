@@ -1,3 +1,3 @@
 # Kokoa Clone - 2022 Recap project.
 
-Css got so much better!
+HTML & Css got so much better!
