@@ -32,7 +32,7 @@
 }
 
 .main-chat {
-  margin-top: 180px;
+  margin-top: 110px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -139,12 +139,12 @@
 .reply__column:last-child > i,
 .reply__column:last-child button {
   position: absolute;
-  right: -3px;
-  top: 2px;
+  right: 5px;
+  top: 3px;
 }
 
 .reply__column:last-child > i {
-  right: 40px;
+  right: 45px;
   top: 10px;
 }
 
