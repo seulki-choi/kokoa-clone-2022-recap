@@ -7,6 +7,7 @@
 .recommended-friends__title {
   font-size: 14px;
   color: var(--grey-font-color);
+  margin-bottom: 20px;
 }
 
 .recommended-friends span {
@@ -15,6 +16,17 @@
   text-align: center;
   font-size: 18px;
   color: var(--grey-font-color);
+}
+
+.reco-img {
+  display: flex;
+  justify-content: space-around;
+}
+
+.reco-img img{
+  object-fit: cover;
+  width: 120px;
+  height: 120px;
 }
 
 .open-chat__header {
